@@ -6,7 +6,7 @@ The project trains a diffusion model on the MNIST dataset, logs MSE loss over tr
 
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQFmI1QAOwSNIQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1699367692267?e=2147483647&v=beta&t=DAPGzo3TLH1Pg_KgUDM06or8lgVf1KMGlrnvworabwg" width="600"/>
 
-*Source: [Somsuvra Chatterjee on LinkedIn](https://www.linkedin.com/pulse/part-1-how-diffusion-models-work-generative-somsuvra-chatterjee-lowzf/)*
+*Image Source: [Somsuvra Chatterjee on LinkedIn](https://www.linkedin.com/pulse/part-1-how-diffusion-models-work-generative-somsuvra-chatterjee-lowzf/)*
 
 
 ---
